@@ -8,7 +8,7 @@ Projeto de Infrastructure as Code (IaC) desenvolvido com Pulumi e TypeScript. At
 
 ## Fluxo da pipeline
 
-![Fluxo da pipeline do Pulumi](docs/images/pulumi_pipeline.png)
+![Fluxo da pipeline do Pulumi](assets/images/pulumi_pipeline.png)
 
 O fluxo de entrega da infraestrutura começa no desenvolvimento e segue estas etapas:
 
